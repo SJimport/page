@@ -488,6 +488,7 @@ footer .footer-below {
 .btn-wsp{
     position:fixed;
     float: left;
+    z-index: 999;
     width:80px;
     height:80px;
     line-height: 63px;
