@@ -491,8 +491,8 @@ footer .footer-below {
     width:80px;
     height:80px;
     line-height: 63px;
-    bottom:25px;
-    right:25px;
+    bottom:0px;
+    right:0px;
     background: #0df053;
     color:#fff;
     border-radius:50px;
