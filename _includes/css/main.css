@@ -504,7 +504,8 @@ footer .footer-below {
 }
 
 .boton{
-    float: left;
+    margin: auto;
+    display: block;
     width: 50px;
     transition: ease 1s;
 }
