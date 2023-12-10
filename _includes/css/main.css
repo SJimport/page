@@ -486,6 +486,7 @@ footer .footer-below {
 /* wasap*/
 
 .container-boton{
+    float: left;
     background-color: #2e6329;
     border: 1px solid #fff;
     position: fixed;
