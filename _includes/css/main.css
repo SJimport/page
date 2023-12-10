@@ -493,7 +493,7 @@ footer .footer-below {
     border-radius: 50%;
     bottom: 20px;
     right: 25px;
-    padding: 50px;
+    padding: 25px;
     transition: ease 0.3s;
     animation: efecto 1.2s infinite;
     display: flex;
@@ -505,8 +505,6 @@ footer .footer-below {
 }
 
 .boton{
-    margin:auto;
-    display:block;
     width: 50px;
     transition: ease 1s;
 }
