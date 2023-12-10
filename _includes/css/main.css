@@ -492,8 +492,8 @@ footer .footer-below {
     z-index: 999;
     border-radius: 50%;
     bottom: 20px;
-    left: 25px;
-    padding: 25px;
+    right: 25px;
+    padding: 50px;
     transition: ease 0.3s;
     animation: efecto 1.2s infinite;
     display: flex;
