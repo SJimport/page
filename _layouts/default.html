@@ -2,12 +2,6 @@
 <html>
 {% include head.html %}
 
-<head>
-  <meta charset="UTF-8">
-  <title>Boton Flotante - WhatsApp</title>
-  <link rel="stylesheet" href="_includes/css/fontello.css">	
-</head>
-  
 <body id="page-top" class="index">
   {% include nav.html %}
   {% include header.html %}
@@ -25,10 +19,13 @@
   {% include footer.html %}
   {% include modals.html %}
   {% include js.html %}
-  <a href="https://api.whatsapp.com/send?phone=+51954054000" class="btn-wsp" target="_blank">
-	    <i class="icon-wasap"></i>
-	</a>
-  
+
+  <div class="container-boton">
+      <a href="https://wa.me/987654321?text=Quiero%20realizar%20un%20proyecto%20web%20php" target="_blank">
+        <img class="boton" src="/img/icono.png" alt="">
+      </a>
+  </div>	
+   
 </body>
 
 </html>
