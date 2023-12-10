@@ -501,11 +501,12 @@ footer .footer-below {
 .container-boton:hover{
     transform: scale(1.1);
     transition: 0.3s;
+    margin: auto;
+    display: block;
+    
 }
 
 .boton{
-    margin: auto;
-    display: block;
     width: 50px;
     transition: ease 1s;
 }
