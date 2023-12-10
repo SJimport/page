@@ -496,6 +496,8 @@ footer .footer-below {
     padding: 25px;
     transition: ease 0.3s;
     animation: efecto 1.2s infinite;
+    display: flex;
+    justify-content: left;
 }
 
 .container-boton:hover{
@@ -509,8 +511,6 @@ footer .footer-below {
 .boton{
     width: 50px;
     transition: ease 1s;
-    display: flex;
-    justify-content: center;
 }
 
 @keyframes efecto{
