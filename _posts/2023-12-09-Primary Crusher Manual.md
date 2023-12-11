@@ -7,9 +7,8 @@ alt: image-alt
 project-date: Diciembre 2023
 client: Start Bootstrap
 category: store
-description: Manual Primary Crusher 
-Manual
-. hola
+description: Manual Primary Crusher, adquieralo
+
 ---
 
 
