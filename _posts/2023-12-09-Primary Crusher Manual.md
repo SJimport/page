@@ -8,7 +8,7 @@ project-date: Diciembre 2023
 client: Start Bootstrap
 category: store
 description: Manual Primary Crusher 
-Descripción
+Descripción:
 -
 . Quieres adquirir el conocimiento necesario para desarrollar tu trabajo en el mantenimiento de Chancadoras Giratorias  
 ---
