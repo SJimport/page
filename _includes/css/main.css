@@ -521,7 +521,7 @@ footer .footer-below {
 /*post boton wasap*/
 
 .post-wasap{
-    position: fixed;
+    position: sticky;
     z-index: 999;
     bottom: 20px;
     right: 25px;
