@@ -525,9 +525,9 @@ footer .footer-below {
     border: 1px solid #fff;
     position: fixed;
     z-index: 999;
-    border-radius: 50%;
+    border-radius: 25%;
     bottom: 20px;
-    left: 25px;
+    center: 25px;
     padding: 25px;
     transition: ease 0.3s;
     display: flex;
@@ -539,7 +539,7 @@ footer .footer-below {
 }
 
 .post-boton{
-    width: 10px;
+    width: 20px;
     transition: ease 1s;
 }
 
