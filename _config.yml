@@ -1,7 +1,7 @@
 # Site settings
 title: S&J importaciones
 email: sj.importaciones.peru@gmail.com
-url: https://sjimport.github.io/page/
+url: https://github.com/SJimport
 description: "Venta de productos importados y personalizados por mayor y menor"
 keywords: "your keywords, separated by commas"
 skills: "Juguetes - Amigurumis - Tecnología"
@@ -48,7 +48,7 @@ social:
   - title: bitbucket
     url: 
   - title: github
-    url: http://github.com/jsimport
+    url: https://github.com/SJimport
 
 # Postal address (add as many lines as necessary)
 address:
