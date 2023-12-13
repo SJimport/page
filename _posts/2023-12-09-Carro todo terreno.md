@@ -5,7 +5,7 @@ date: 2023-12-09
 img: car.jpg
 alt: image-alt
 project-date: Diciembre 2023
-description: Manual Primary Crusher, adquieralo
+description: Carro todo terreno a control remoto inalambrico.
 ---
 
 
