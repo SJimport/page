@@ -4,6 +4,6 @@ modal-id: 1
 date: 2023-12-12
 img: perrito.jpg
 alt: image-alt
-project-date: Diciembre 2023
-description: Mi mascotita.
+client: S/. 38
+description: Mochila de gato con accesorios.
 ---
