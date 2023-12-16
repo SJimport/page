@@ -4,8 +4,6 @@ modal-id: 6
 date: 2023-12-12
 img: dino.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: S/. 35.00
 description: Dinosaurio
 ---
