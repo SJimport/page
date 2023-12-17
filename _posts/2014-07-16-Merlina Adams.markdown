@@ -4,6 +4,6 @@ modal-id: 3
 date: 2023-12-12
 img: merlina.jpg
 alt: image-alt
-project-date: Diciembre 2023
-description: Merlina Adams
+client: S/. 35
+description: Merlina con calavera
 ---
