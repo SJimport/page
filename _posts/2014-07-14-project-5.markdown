@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 5
-date: 2014-07-14
-img: ludo.jpg
-alt: image-alt
-project-date: Diciembre 2023
-description: Diviertete armando las piezas del ludo
----
